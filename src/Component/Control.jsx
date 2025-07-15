@@ -6,19 +6,19 @@ function Control() {
   const Controls=[
       {
         id:1, 
-         img:"/public/ph_magic-wand-duotone.png",
+         img:"/ph_magic-wand-duotone.png",
   hadding:"You’re in Control",
   text:"aiDRs operate based on your rules. You guide the machine, the aiDRs execute the work."
       },
          {
         id:2, 
-        img:"/public/ph2.png",
+        img:"/ph2.png",
   hadding:"Infinitely Scalable",
   text:"Train an aiDR on a patch. When you are happy with the results, scale it effortlessly."
       },
          {
         id:3, 
-         img:"/public/ph3.png",
+         img:"/ph3.png",
   hadding:"Incredibly Flexible",
   text:"Train an aiDR on an outbound patch, to nurture inbound leads, or to reach out to your long tail of SMB customers at renewal time."
       },
