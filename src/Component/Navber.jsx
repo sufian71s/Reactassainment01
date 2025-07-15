@@ -27,7 +27,7 @@ function Navber() {
 
 <Toolbar className='flex justify-between'>
 
-    <img className='h-6 ' src="/public/logo.png" alt="" />
+    <img className='h-6 ' src="/public/Logo.png" alt="" />
   {IsMobile ? (
 <div>
   <IconButton color="inherit" onClick={()=> setOpen(true)}> 
