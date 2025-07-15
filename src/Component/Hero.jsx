@@ -7,7 +7,7 @@ function Hero() {
 
       <div className='flex flex-1 text-white md:p-14 p-6 '>
         <div>
-<h2 className='text-[#0FF1F6] py-2 '>AI SDRs (aiDRs)</h2>
+<h2 className='text-[#0FF1F6] py-2 '>I Am A Programer (Coder)</h2>
 
 <h1 className=' font-sans  pb-3 md:text-6xl text-4xl'> <span className='font-bold '>More</span> <span className='italic'>leads,</span> <br /> <span className=' font-bold '>less</span>  <span className='italic'>people.</span></h1>
 
