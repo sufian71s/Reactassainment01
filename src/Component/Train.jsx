@@ -3,7 +3,7 @@ import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
 
 function Train() {
   return (
-    <section className="bg-[url('/public/bg2.png')] bg-cover bg-center md:text-start bg-no-repeat md:h-[450px] px-4 py-12 h-[440px] text-white flex md:justify-center  ">
+    <section className="bg-[url('/bg2.png')] bg-cover bg-center md:text-start bg-no-repeat md:h-[450px] px-4 py-12 h-[440px] text-white flex md:justify-center  ">
       
 
 <div>

@@ -3,7 +3,7 @@ import AirlineStopsIcon from '@mui/icons-material/AirlineStops';
 
 function Hero() {
   return (
-    <section className="bg-[url('/public/bg1.png')] bg-cover bg-center md:text-start text-center bg-no-repeat md:h-[450px] h-[380px]">
+    <section className="bg-[url('/bg1.png')] bg-cover bg-center md:text-start text-center bg-no-repeat md:h-[450px] h-[380px]">
 
       <div className='flex flex-1 text-white md:p-14 p-6 '>
         <div>

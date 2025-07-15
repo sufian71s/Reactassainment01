@@ -23,7 +23,7 @@ function Allocate() {
     ]
   
   return (
-    <section className="bg-[url('/public/bg3.png')] bg-cover bg-center text-start bg-no-repeat md:h-[500px] h-[620px]">
+    <section className="bg-[url('/bg3.png')] bg-cover bg-center text-start bg-no-repeat md:h-[500px] h-[620px]">
 
       <div className=' text-white md:p-14 p-6 '>
 <h1 className=' md:line-clamp-2 line-clamp-3 pb-4  text-[#FFFF]  md:py-1  py-1 text-4xl font-semibold ' >Allocate effort where your reps <br /> make an inpact.</h1>

@@ -29,7 +29,7 @@ Take your outbound to new levels of performance and efficiency.</p>
 
 
 <div className="flex justify-center md:justify-start py-4">
-  <img className=' flex md:block md:px-12   px-4 py-2  ' src="/public/Logo.png" alt="" />
+  <img className=' flex md:block md:px-12   px-4 py-2  ' src="/Logo.png" alt="" />
 </div>
 
 
